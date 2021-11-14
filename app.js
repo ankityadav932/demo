@@ -30,8 +30,3 @@ let callUserMedia = () =>
 		}, (err) => {console.log(err);});
 	}
 };
-
-window.onload = () => 
-{
-	alert('Hello');
-}
