@@ -1,0 +1,42 @@
+1. Postfix operators (all have the same precedence, so sequences of operators will be evaluated left-to-right)
+array subscript operator []
+function call operator ()
+component selection operators . and ->
+postfix ++ and --
+
+2. Unary operators (all have the same precedence, so sequences of operators will be evaluated left-to-right)
+prefix ++ and --
+sizeof
+bitwise negation operator ~
+logical negation operator !
+unary sign operators - and +
+address-of operator &
+dereference operator *
+
+3. Cast expressions ( type name )
+
+4. Multiplicative operators *, /, %
+
+5. Additive operators + and -
+
+6. Shift operators << and >>
+
+7. Relational operators <, >, <=, >=
+
+8. Equality operators == and !=
+
+9. Bitwise AND &
+
+10. Bitwise XOR ^
+
+11. Bitwise OR |
+
+12. Logical AND &&
+
+13. Logical OR ||
+
+14. Conditional operator ?:
+
+15. Assignment operators =, +=. -=, *=, /=, %=, <<=, >>=, &=, ^=, |=
+
+16. Sequential (comma) operator ,
